@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb443a07-31f2-447a-b25c-17df9da0cdb1" name="Changes" comment="message">
+      <change afterPath="$PROJECT_DIR$/.idea/Cat_shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat_shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat_shop/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat_shop/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat_shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cat_shop/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/templates/catalog/product_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/royal_canin.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/будиночок.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/будиночок_2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/вітаміни.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/кігтеточка.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/кігтеточка_2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/кігтеточка_CIwSGqi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/миска.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_7GHWhch.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_ANV1kCS.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_L1wjt72.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_SNF1en7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_VxJOsZD.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_ZKhYMlP.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_ksx3qU3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_lUeyvK7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_mt7myqf.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_rSPNSwf.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_xtFphLk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/мишка_що_вібрує.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/светр.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product_photos/шампунь.webp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Cat_shop/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cat_app/admin.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cat_app/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cat_app/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/manage.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gWccDjRphHtURgAQ9U90o6cTge" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.0001_initial.executor": "Run",
+    "Python.urls.executor": "Run",
+    "Python.views.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/lorie/PycharmProjects"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "HTML"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lorie\PycharmProjects\Cat_shop\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="0001_initial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cat_shop" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cat_app/migrations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cat_app/migrations/0001_initial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0001_initial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb443a07-31f2-447a-b25c-17df9da0cdb1" name="Changes" comment="" />
+      <created>1715816851928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715816851928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message" />
+    <option name="LAST_COMMIT_MESSAGE" value="message" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Онлайн-каталог товарів для котів</title>
+</head>
+<body>
+    <h1>Онлайн-каталог товарів для котів</h1>
+    <!-- Форма фільтрації -->
+    <form method="GET">
+        <label for="brand">Brand:</label>
+        <input type="text" name="brand" id="brand" value="{{ request.GET.brand }}">
+
+        <label for="type">Type:</label>
+        <input type="text" name="type" id="type" value="{{ request.GET.type }}">
+
+        <label for="min_price">Min Price:</label>
+        <input type="number" name="min_price" id="min_price" step="0.01" value="{{ request.GET.min_price }}">
+
+        <label for="max_price">Max Price:</label>
+        <input type="number" name="max_price" id="max_price" step="0.01" value="{{ request.GET.max_price }}">
+
+        <button type="submit">Filter</button>
+    </form>
+    <ul>
+        {% for product in products %}
+            <li>
+                <h2>{{ product.name }}</h2>
+                <p>Brand: {{ product.brand }}</p>
+                <p>Type: {{ product.type }}</p>
+                <p>Description: {{ product.description }}</p>
+                <p>Price: {{ product.price }} {{ product.currency }}</p>
+                <p>Available Quantity: {{ product.available_quantity }}</p>
+                {% if product.photo %}
+                    <img src="{{ product.photo.url }}" alt="{{ product.name }}">
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
